@@ -1,5 +1,5 @@
 # Instaclone
-It's a clone of the feed from the instagram app
+This is a brief clone of the feed from the instagram app
 
 ## Some Used Features
 * React-native,
